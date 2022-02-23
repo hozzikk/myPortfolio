@@ -5,4 +5,4 @@
 # npm install
 # gulp
 
-#That's it! be happy!
+# That's it! be happy!
